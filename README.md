@@ -146,5 +146,5 @@ Se implementó exitosamente una infraestructura de red segura utilizando un fire
 La red está lista para operar en un entorno de producción con altos estándares de seguridad. 🚀
 
 ---
-Video: https://youtu.be/k_HiktJOxjs?si=3Z8C51lmSgloFXro
+## Video: https://youtu.be/k_HiktJOxjs?si=3Z8C51lmSgloFXro
 
