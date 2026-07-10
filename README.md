@@ -14,6 +14,7 @@ Documentación técnica de la implementación de un firewall **FortiGate**, conf
 - [Configuraciones (GUI)](#-configuraciones-utilizadas-gui)
 - [Pruebas de Verificación](#-pruebas-de-verificación)
 - [Conclusión](#-conclusión)
+- [Video](#-Video)
 
 ---
 
