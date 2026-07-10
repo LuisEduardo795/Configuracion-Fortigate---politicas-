@@ -14,8 +14,8 @@ Documentación técnica de la implementación de un firewall **FortiGate**, conf
 - [Configuraciones (GUI)](#-configuraciones-utilizadas-gui)
 - [Pruebas de Verificación](#-pruebas-de-verificación)
 - [Conclusión](#-conclusión)
-- [Video](#-Video)
-
+- [Video](#-video)
+  
 ---
 
 ## 🎯 Objetivo de la Red
@@ -146,5 +146,8 @@ Se implementó exitosamente una infraestructura de red segura utilizando un fire
 La red está lista para operar en un entorno de producción con altos estándares de seguridad. 🚀
 
 ---
-## Video: https://youtu.be/k_HiktJOxjs?si=3Z8C51lmSgloFXro
+
+## 🎥 Video
+
+https://youtu.be/k_HiktJOxjs?si=3Z8C51lmSgloFXro
 
